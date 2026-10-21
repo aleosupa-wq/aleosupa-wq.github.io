@@ -1,0 +1,96 @@
+<!doctype html>
+<!--
+  TENDENCIA — Alejandro Osuna Pacheco, 2026
+  © 2026 Alejandro Osuna Pacheco. Todos los derechos reservados.
+  Partido ficticio. No concurre a ninguna elección ni suplanta a nadie.
+-->
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>TENDENCIA</title>
+<meta name="author" content="Alejandro Osuna Pacheco">
+<meta name="description" content="TENDENCIA (2026), obra de Alejandro Osuna Pacheco.">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap">
+<style>
+  :root{ --bg:#ffffff; --fg:#111111; color-scheme:light; }
+  *{box-sizing:border-box}
+  html,body{height:100%}
+  body{
+    margin:0;background:var(--bg);color:var(--fg);overflow:hidden;
+    display:flex;align-items:center;justify-content:center;padding:32px;
+    font-family:"Oswald",system-ui,-apple-system,Segoe UI,sans-serif;
+  }
+  .speech{
+    font-weight:600;text-transform:uppercase;text-align:center;
+    font-size:clamp(2.1rem,8vw,6.2rem);line-height:.98;letter-spacing:-.01em;
+    text-wrap:balance;max-width:20ch;margin:0;
+    transition:opacity .45s ease, transform .45s ease;
+  }
+  .speech.flip{opacity:0;transform:translateY(14px)}
+  @media (prefers-reduced-motion:reduce){.speech{transition:none}}
+</style>
+</head>
+<body>
+<h1 class="speech" id="speech">Esperando tendencias…</h1>
+<script>
+(function(){
+  "use strict";
+  var reduce=matchMedia("(prefers-reduced-motion:reduce)").matches;
+  var el=document.getElementById("speech");
+
+  var FALLBACK=[
+    {speech:"Prometemos lo que sea con tal de seguir siendo tendencia."},
+    {speech:"Si es viral, lo firmamos. No lo leemos, pero lo firmamos."},
+    {speech:"Haremos justo lo contrario de lo que criticábamos ayer."},
+    {speech:"Tenemos un plan. Lo presentaremos después de las elecciones."}
+  ];
+  var pool=FALLBACK.slice(), cur=null;
+  var PIVOT=reduce?7000:5200;
+
+  // Las fuentes españolas pesan el doble.
+  function peso(x){return /( ES$|Wikipedia es|titulares)/.test(x.source||"")?2:1}
+  function pick(){
+    var tot=0,i,r,x;for(i=0;i<pool.length;i++)tot+=peso(pool[i]);
+    do{r=Math.random()*tot;for(i=0;i<pool.length;i++){r-=peso(pool[i]);if(r<=0)break}x=pool[Math.min(i,pool.length-1)]}while(pool.length>1&&x===cur);
+    cur=x;return x;
+  }
+  // Ajusta el tamaño para que los titulares largos quepan en pantalla.
+  function fit(){
+    el.style.fontSize="";
+    var max=innerHeight-64,fs=parseFloat(getComputedStyle(el).fontSize),i=0;
+    while(el.scrollHeight>max&&fs>18&&i++<40){fs*=.92;el.style.fontSize=fs+"px"}
+  }
+  function show(x){el.textContent=x.speech;fit()}
+  function pivot(){
+    var x=pick();
+    if(reduce){show(x)}
+    else{el.classList.add("flip");setTimeout(function(){show(x);el.classList.remove("flip")},450)}
+  }
+  function loadFeed(){
+    fetch("trends.json",{cache:"no-store"}).then(function(r){return r.ok?r.json():null}).then(function(d){
+      if(d&&Array.isArray(d.items)&&d.items.length){
+        var s=d.items.filter(function(x){return x&&x.speech});
+        if(s.length)pool=s;
+      }
+    }).catch(function(){});
+  }
+
+  addEventListener("resize",function(){if(cur)fit()});
+
+  // Abierta suelta (por su enlace público), un clic lleva a la web personal con la ficha de la obra.
+  // Si algún día tienes dominio propio, cambia WEB por él (p. ej. "https://alejandroosuna.com/").
+  var WEB="https://aleosupa-wq.github.io/";
+  if(window.top===window.self){
+    document.body.style.cursor="pointer";
+    addEventListener("click",function(){location.href=WEB+"#obra=o-tendencia"});
+  }
+  loadFeed();
+  setTimeout(pivot,600);
+  setInterval(loadFeed,60000);
+  setInterval(pivot,PIVOT);
+})();
+</script>
+</body>
+</html>
