@@ -52,44 +52,44 @@
 .legal-dlg h3{margin:20px 0 6px;font-size:.78rem;font-weight:500;text-transform:uppercase;letter-spacing:.04em;color:#6a6a6a}
 .legal-dlg p{margin:0;line-height:1.55;font-size:.95rem}
 img{-webkit-user-drag:none;user-drag:none}
-.lab-dlg{position:fixed;inset:0;width:100vw;max-width:100vw;height:100dvh;max-height:100dvh;margin:0;padding:0;border:0;background:#09090a;color:#e9e8e4;overflow:hidden;--beat:0;--acc:#ff2d2d}
-.lab-dlg::backdrop{background:#000}
+.lab-dlg{position:fixed;inset:0;width:100vw;max-width:100vw;height:100dvh;max-height:100dvh;margin:0;padding:0;border:0;background:var(--paper);color:var(--ink);overflow:hidden;--beat:0;--acc:var(--blue)}
+.lab-dlg::backdrop{background:rgba(0,0,0,.45)}
 .lab-dlg .m{font-family:var(--f-mono)}
-.lab-top{position:absolute;z-index:3;top:0;left:0;right:0;display:flex;justify-content:space-between;align-items:center;gap:16px;padding:14px clamp(16px,3vw,40px);background:linear-gradient(#09090a 60%,rgba(9,9,10,0));font-size:12px;letter-spacing:.04em;text-transform:uppercase;color:#a9a8a3}
+.lab-top{position:absolute;z-index:3;top:0;left:0;right:0;display:flex;justify-content:space-between;align-items:center;gap:16px;padding:16px var(--gut);background:linear-gradient(var(--paper) 62%,rgba(243,242,238,0));font-size:12px;letter-spacing:.04em;text-transform:uppercase}
 .lab-acts{display:flex;gap:22px;align-items:center}
-.lab-close{color:#e9e8e4;text-transform:uppercase}
-.lab-play{all:unset;cursor:pointer;display:inline-flex;align-items:center;gap:9px;padding:7px 12px;border:1px solid rgba(255,255,255,.28);font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:#e9e8e4}
-.lab-play:hover{border-color:var(--acc)}
-.lab-play:focus-visible,.lab-pad:focus-visible,.lab-close:focus-visible{outline:2px solid var(--acc);outline-offset:3px}
-.lab-dot{width:8px;height:8px;border-radius:50%;background:#555;box-shadow:0 0 0 0 var(--acc)}
-.is-on .lab-dot{background:var(--acc);box-shadow:0 0 calc(4px + var(--beat)*14px) var(--acc)}
-.lab-scroll{position:absolute;inset:0;overflow:auto;padding:70px clamp(16px,3vw,40px) 48px}
-.lab-head{display:grid;grid-template-columns:minmax(0,1.1fr) minmax(0,1fr);gap:clamp(20px,4vw,64px);align-items:end;padding-bottom:28px;border-bottom:1px solid rgba(255,255,255,.12);margin-bottom:28px}
-.lab-h{margin:0 0 14px;font-size:clamp(34px,6vw,84px);line-height:.92;letter-spacing:-.02em;font-weight:500;text-transform:uppercase}
-.is-on .lab-h{text-shadow:calc(var(--beat)*3px) 0 0 rgba(255,45,45,.55),calc(var(--beat)*-3px) 0 0 rgba(80,160,255,.45)}
-.lab-intro{margin:0;max-width:62ch;color:#b7b6b1;line-height:1.55;font-size:15px}
+.lab-close{color:var(--red);text-transform:uppercase}
+.lab-play{all:unset;cursor:pointer;display:inline-flex;align-items:center;gap:9px;padding:7px 12px;border:.5px solid var(--ink);font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:var(--ink);background:var(--paper)}
+.lab-play:hover{border-color:var(--blue);color:var(--blue)}
+.lab-play:focus-visible,.lab-pad:focus-visible,.lab-close:focus-visible{outline:1px solid var(--blue);outline-offset:3px}
+.lab-dot{width:8px;height:8px;border-radius:50%;background:var(--line)}
+.is-on .lab-play{background:var(--ink);color:var(--paper);border-color:var(--ink)}
+.is-on .lab-dot{background:var(--red);box-shadow:0 0 calc(2px + var(--beat)*10px) var(--red)}
+.lab-scroll{position:absolute;inset:0;overflow:auto;padding:76px var(--gut) 48px}
+.lab-head{display:grid;grid-template-columns:minmax(0,1.1fr) minmax(0,1fr);gap:clamp(20px,4vw,64px);align-items:end;padding-bottom:28px;border-bottom:.5px solid var(--ink);margin-bottom:28px}
+.lab-h{margin:0 0 14px;font-size:clamp(34px,5.4vw,72px);line-height:.95;letter-spacing:-.01em;font-weight:500;text-transform:uppercase}
+.is-on .lab-h{text-shadow:calc(var(--beat)*2.5px) 0 0 rgba(184,51,42,.55),calc(var(--beat)*-2.5px) 0 0 rgba(30,27,255,.45)}
+.lab-intro{margin:0;max-width:62ch;line-height:1.55;font-size:15px}
 .lab-meter{display:grid;gap:10px}
-.lab-scope{width:100%;height:auto;aspect-ratio:560/120;display:block;border:1px solid rgba(255,255,255,.12);background:repeating-linear-gradient(90deg,transparent 0 34px,rgba(255,255,255,.04) 34px 35px)}
+.lab-scope{width:100%;height:auto;aspect-ratio:560/120;display:block;border:.5px solid var(--line);background:repeating-linear-gradient(90deg,transparent 0 34px,var(--faint) 34px 35px)}
 .lab-seq{display:grid;grid-template-columns:repeat(16,1fr);gap:4px}
-.lab-seq i{height:14px;background:rgba(255,255,255,.08)}
-.lab-seq i.k{background:rgba(255,255,255,.2)}
-.lab-seq i:nth-child(4n+1){box-shadow:inset 0 2px 0 rgba(255,255,255,.25)}
-.lab-seq i.cur{background:#e9e8e4}
-.is-on .lab-seq i.cur{background:var(--acc);box-shadow:0 0 10px var(--acc)}
-.lab-bpm{display:flex;justify-content:space-between;font-size:11px;letter-spacing:.08em;color:#8a8984}
-.lab-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,250px),1fr));gap:18px}
-.lab-pad{all:unset;cursor:pointer;display:grid;gap:9px;position:relative}
-.lab-img{display:block;aspect-ratio:4/3;overflow:hidden;background:#000;border:1px solid rgba(255,255,255,.1);transition:border-color .2s}
-.lab-img img{width:100%;height:100%;object-fit:cover;display:block;filter:saturate(.95) brightness(.88);transition:filter .25s,transform .4s}
-.lab-pad:hover .lab-img,.lab-pad:focus-visible .lab-img{border-color:var(--acc)}
-.lab-pad:hover img{filter:none;transform:scale(1.03)}
-.lab-pad.hit .lab-img{animation:labhit .5s ease-out}
-.lab-pad.hit img{animation:labimg .5s ease-out}
-@keyframes labhit{0%{border-color:var(--acc);box-shadow:0 0 0 1px var(--acc),0 0 26px rgba(255,45,45,.45)}100%{box-shadow:0 0 0 0 transparent}}
-@keyframes labimg{0%{filter:brightness(1.35) contrast(1.1)}100%{filter:saturate(.95) brightness(.88)}}
+.lab-seq i{height:12px;background:var(--faint)}
+.lab-seq i.k{background:var(--line)}
+.lab-seq i.cur{background:var(--ink)}
+.is-on .lab-seq i.cur{background:var(--blue)}
+.lab-bpm{display:flex;justify-content:space-between;font-size:11px;letter-spacing:.08em;color:var(--mute)}
+.lab-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,250px),1fr));gap:22px 18px}
+.lab-pad{all:unset;cursor:pointer;display:grid;gap:8px;position:relative}
+.lab-img{display:block;aspect-ratio:4/3;overflow:hidden;background:#111;outline:.5px solid transparent;transition:outline-color .2s}
+.lab-img img{width:100%;height:100%;object-fit:cover;display:block;transition:filter .25s,transform .4s}
+.lab-pad:hover .lab-img,.lab-pad:focus-visible .lab-img{outline:1px solid var(--blue);outline-offset:4px}
+.lab-pad:hover img{transform:scale(1.03)}
+.lab-pad.hit .lab-img{animation:labhit .55s ease-out}
+.lab-pad.hit img{animation:labimg .55s ease-out}
+@keyframes labhit{0%{outline:2px solid var(--red);outline-offset:4px}100%{outline:2px solid transparent;outline-offset:8px}}
+@keyframes labimg{0%{filter:brightness(1.3) contrast(1.08)}100%{filter:none}}
 .lab-cap{display:grid;grid-template-columns:auto 1fr auto;gap:10px;align-items:baseline;font-size:11.5px;letter-spacing:.05em;text-transform:uppercase}
-.lab-cap b{font-weight:500;color:var(--acc)}
-.lab-cap em{font-style:normal;color:#77766f}
+.lab-cap b{font-weight:500;color:var(--red)}
+.lab-cap em{font-style:normal;color:var(--mute)}
 @media (max-width:760px){.lab-head{grid-template-columns:1fr}.lab-top{font-size:10.5px;align-items:flex-start;padding-bottom:22px}.lab-top>span{max-width:46vw}.lab-scroll{padding-top:112px}.lab-acts{gap:14px}}
 @media (prefers-reduced-motion:reduce){.lab-pad img{transition:none}.lab-pad.hit .lab-img,.lab-pad.hit img{animation:none}}
 </style></head><body>
@@ -482,7 +482,7 @@ function openLab(rama,sub){
       var b=Math.floor(s/16)+1,q=Math.floor(i/4)+1;clock.textContent=pad(b,2)+'.'+q;
     }
     beat*=0.9;if(!reduce)dlg.style.setProperty('--beat',beat.toFixed(3));
-    var W=scope.width,H=scope.height;sx.clearRect(0,0,W,H);sx.lineWidth=2;sx.strokeStyle=on?'#ff2d2d':'rgba(255,255,255,.35)';sx.beginPath();
+    var W=scope.width,H=scope.height;sx.clearRect(0,0,W,H);sx.lineWidth=2;sx.strokeStyle=on?'#1E1BFF':'#7A7973';sx.lineWidth=on?2:1.5;sx.beginPath();
     if(on&&an){an.getByteTimeDomainData(data);for(var x=0;x<W;x++){var v=data[Math.floor(x/W*data.length)]/128-1;var y=H/2+v*H*0.42;x?sx.lineTo(x,y):sx.moveTo(x,y)}}
     else{for(var x2=0;x2<W;x2++){var y2=H/2+Math.sin(x2/W*Math.PI*6+now/600)*H*0.06*(0.4+beat);x2?sx.lineTo(x2,y2):sx.moveTo(x2,y2)}}
     sx.stroke();
