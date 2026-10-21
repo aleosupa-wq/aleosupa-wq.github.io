@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aleosupa-wq.github.io/sitemap.xml
