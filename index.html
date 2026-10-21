@@ -36,6 +36,8 @@
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"Person","name":"Alejandro Osuna Pacheco","birthDate":"2005","homeLocation":{"@type":"Place","name":"Sevilla, España"},"jobTitle":"Artista","url":"https://aleosupa-wq.github.io/","knowsAbout":["Instalación interactiva","TouchDesigner","Realidad virtual","Realidad extendida","OSINT","Arte sonoro","Blender"]}</script>
 <meta name="google-site-verification" content="Esga3VLV3ZXlBvTC3Vy1HiFEm2odBMmtTkpx-6w05R0">
 <meta name="author" content="Alejandro Osuna Pacheco">
+<meta name="copyright" content="© 2026 Alejandro Osuna Pacheco. Todos los derechos reservados.">
+<meta name="robots" content="index, follow, noimageai, noai">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Geist:wght@300..600&family=Geist+Mono:wght@400;500&family=Reenie+Beanie&display=swap">
@@ -305,7 +307,7 @@ document.getElementById("root").innerHTML =
    '<section class="about" id="info"><div><h2 id="t-about"></h2><p class="bio" id="bio"></p><h3 class="stmt-h m" id="t-stmt"></h3><p class="bio stmt" id="stmt"></p><div class="photo"><div class="tex" id="portrait"></div><span class="m" id="t-photo"></span></div></div>'+
    '<div class="right-col"><h3 class="edu-h" id="t-edu"></h3><div class="edu" id="edu"></div><div class="links m" id="links"></div></div></section>'+
    '<footer><div><canvas id="barcode" width="300" height="88" aria-hidden="true"></canvas><span class="m">AOP — 2026 — SEVILLA</span></div>'+
-   '<span class="m fine">© 2026 '+TITLE+' · <span id="t-upd"></span></span></footer></main>'+
+   '<span class="m fine">© 2026 '+TITLE+' · <span id="t-rights"></span> · <span id="t-upd"></span></span></footer></main>'+
  '<div class="overlay ov" id="ov" hidden role="dialog" aria-modal="true" aria-labelledby="ov-title"></div>'+
  '<div class="overlay ov" id="wv" hidden role="dialog" aria-modal="true" aria-labelledby="wv-title"></div>'+
  '<aside class="editor" id="editor" hidden aria-label="Editor"></aside>';
@@ -722,7 +724,7 @@ addEventListener("keydown",function(e){
 function renderAll(){
   document.documentElement.lang=lang;
   $("t-arch").textContent=T[lang].archivo;$("t-sub").textContent=tx(STATE.sub);$("t-hint").innerHTML=T[lang].hint;
-  $("t-upd").textContent=T[lang].upd+" "+(STATE.updated||"").split("-").reverse().join(".");
+  $("t-upd").textContent=T[lang].upd+" "+(STATE.updated||"").split("-").reverse().join(".");var _r=$("t-rights");if(_r)_r.textContent=lang==="es"?"Todos los derechos reservados. Obras, imágenes, textos y código protegidos por la Ley de Propiedad Intelectual; prohibida su reproducción, distribución o uso, incluido el entrenamiento de IA, sin autorización escrita del autor.":"All rights reserved. Works, images, texts and code are protected by copyright; no reproduction, distribution or use, including AI training, without the author's written permission.";
   $("lang-es").setAttribute("aria-pressed",String(lang==="es"));$("lang-en").setAttribute("aria-pressed",String(lang==="en"));
   $("edit-btn").textContent=T[lang].edit;$("recover").textContent=T[lang].recover;
   refreshPanels();buildDock();renderIndex();renderCat();renderAbout();draw();
