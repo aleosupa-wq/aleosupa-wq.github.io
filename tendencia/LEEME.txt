@@ -1,0 +1,61 @@
+TENDENCIA — pieza satírica
+© 2026 Alejandro Osuna Pacheco. Todos los derechos reservados.
+===========================================
+
+En la web publicada (GitHub Pages) no hay que hacer nada: GitHub ejecuta el
+motor cada hora y la obra se actualiza sola. Lo de abajo es solo para verla en
+tu ordenador.
+
+Qué es
+------
+Una obra: un "partido" ficticio cuyo discurso se reescribe solo a partir de las
+TENDENCIAS reales del momento (España y mundo), tomadas de fuentes abiertas, y
+convertidas en promesas de campaña absurdas. Cuanto más viral algo, más probable
+que acabe siendo una promesa.
+
+Es sátira. Partido ficticio, no concurre a nada, no suplanta a nadie.
+
+Qué NO usa (a propósito)
+------------------------
+X, TikTok, Instagram y Facebook. No abren sus tendencias y sacárselas incumple
+sus términos. Por eso no están. Las fuentes que sí se usan son todas abiertas.
+
+Fuentes de tendencias (abiertas)
+--------------------------------
+- Google Trends: lo más buscado AHORA en ES, US, GB, MX, AR, FR, IT, DE, BR, JP.
+- Wikipedia: artículos más vistos (ediciones español e inglés).
+- Titulares por RSS (nacionales e internacionales; editables en el script).
+- Reddit: r/es y r/popular (mundial).
+
+Cómo ejecutarlo
+---------------
+Necesitas Python 3 instalado.
+
+1) Arranca el motor en bucle (busca tendencias y reescribe trends.json):
+      python3 motor_tendencias.py --loop 300
+   (cada 300 s = 5 min; cámbialo a lo que quieras)
+
+   Déjalo abierto en una ventana de terminal.
+
+2) En OTRA ventana de terminal, dentro de esta misma carpeta, levanta la obra:
+      python3 -m http.server 8000
+
+3) Abre en el navegador:
+      http://localhost:8000
+
+La página relee trends.json cada 15 s, así que se actualiza sola en vivo
+mientras el motor va refrescando las tendencias. No hay que republicar nada.
+
+Ajustes rápidos (en motor_tendencias.py)
+----------------------------------------
+- GT_GEOS      : países de Google Trends.
+- WIKI_LANGS   : ediciones de Wikipedia.
+- MEDIOS_RSS   : feeds de titulares (añade/quita los que quieras).
+- PLANTILLAS   : las frases en las que se inserta el término viral.
+- PLANTILLAS_LUTO : las frases para cuando el término es una desgracia.
+                 Si algún día quieres que un modelo de lenguaje redacte el
+                 discurso en vez de usar plantillas, sustituye la función
+                 a_discurso() por una llamada a tu modelo (necesitarás tu
+                 propia clave). Regla a mantener: el partido es el sujeto;
+                 la tendencia es solo el objeto. Nunca pongas la frase en
+                 boca de una persona real.
