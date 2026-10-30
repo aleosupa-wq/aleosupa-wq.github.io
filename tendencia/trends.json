@@ -1,773 +1,299 @@
 {
-  "updated": "2026-10-30T16:57:32Z",
+  "updated": "2026-10-30T18:58:09Z",
   "count": 140,
   "items": [
     {
-      "term": "Elizabeth Holmes",
-      "source": "Wikipedia en",
-      "speech": "Si nos votáis el 29 de noviembre, «Elizabeth Holmes» saldrá por decreto.",
-      "luto": false
-    },
-    {
-      "term": "Puente puso su cargo a disposición de Sánchez, que respalda su…",
-      "source": "titulares",
-      "speech": "«Puente puso su cargo a disposición de Sánchez, que respalda su…» será gratis para todas las familias antes de Navidad.",
-      "luto": false
-    },
-    {
-      "term": "atraso cambiario",
-      "source": "Google Trends AR",
-      "speech": "Renombraremos una calle de cada ciudad como «atraso cambiario».",
-      "luto": false
-    },
-    {
-      "term": "Israel investiga una posible 'injerencia extranjera' en las…",
-      "source": "titulares",
-      "speech": "«Israel investiga una posible 'injerencia extranjera' en las…» será gratis para todas las familias antes de Navidad.",
-      "luto": false
-    },
-    {
-      "term": "Milwaukee Brewers",
-      "source": "Wikipedia en",
-      "speech": "Los españoles de bien ya han elegido: «Milwaukee Brewers».",
-      "luto": false
-    },
-    {
-      "term": "Facebook",
-      "source": "Wikipedia es",
-      "speech": "Reparto gratuito de «Facebook» en cada hogar antes del viernes.",
-      "luto": false
-    },
-    {
-      "term": "einbürgerung",
-      "source": "Google Trends DE",
-      "speech": "Nos acusan de no tener programa. Tenemos «einbürgerung».",
-      "luto": false
-    },
-    {
-      "term": "weather phoenix",
-      "source": "Google Trends US",
-      "speech": "Renombraremos una calle de cada ciudad como «weather phoenix».",
-      "luto": false
-    },
-    {
-      "term": "Cómo funcionan los sistemas de seguridad que fallaron en el accidente…",
-      "source": "titulares",
-      "speech": "Reparto gratuito de «Cómo funcionan los sistemas de seguridad que fallaron en el accidente…» en cada hogar antes del viernes.",
-      "luto": false
-    },
-    {
-      "term": "Óscar Puente",
-      "source": "Wikipedia es",
-      "speech": "Los españoles de bien ya han elegido: «Óscar Puente».",
-      "luto": false
-    },
-    {
-      "term": "Christian Yelich",
-      "source": "Wikipedia en",
-      "speech": "«Christian Yelich» es culpa del Gobierno anterior. Y del siguiente.",
-      "luto": false
-    },
-    {
-      "term": "Jacob Misiorowski",
-      "source": "Wikipedia en",
-      "speech": "Pediremos un pacto de Estado por «Jacob Misiorowski». Nadie lo firmará. Da igual.",
-      "luto": false
-    },
-    {
-      "term": "Sunny Ozell",
-      "source": "Wikipedia en",
-      "speech": "Renombraremos una calle de cada ciudad como «Sunny Ozell».",
-      "luto": false
-    },
-    {
-      "term": "marie-france van heel",
+      "term": "glazer ownership of manchester united",
       "source": "Google Trends GB",
-      "speech": "Esto no va de izquierdas o de derechas: va de «marie-france van heel».",
-      "luto": false
-    },
-    {
-      "term": "calor",
-      "source": "Google Trends AR",
-      "speech": "¿Vivienda? Mañana. Hoy toca «calor».",
-      "luto": false
-    },
-    {
-      "term": "santiago núñez",
-      "source": "Google Trends AR",
-      "speech": "Crearemos un Ministerio de «santiago núñez», con partida propia.",
-      "luto": false
-    },
-    {
-      "term": "al-sadd x al-shamal",
-      "source": "Google Trends BR",
-      "speech": "Bajaremos los impuestos a «al-sadd x al-shamal» y se los subiremos a lo que no sea tendencia.",
-      "luto": false
-    },
-    {
-      "term": "js kabylie – js el biar",
-      "source": "Google Trends FR",
-      "speech": "Lo que España pide hoy es «js kabylie – js el biar». Nosotros lo garantizamos.",
-      "luto": false
-    },
-    {
-      "term": "vulcão",
-      "source": "Google Trends BR",
-      "speech": "Pediremos un pacto de Estado por «vulcão». Nadie lo firmará. Da igual.",
-      "luto": false
-    },
-    {
-      "term": "Las tres posibilidades ante el estancamiento político que dejan las…",
-      "source": "titulares",
-      "speech": "Escuchamos a la calle: «Las tres posibilidades ante el estancamiento político que dejan las…» es ahora nuestra máxima prioridad.",
-      "luto": false
-    },
-    {
-      "term": "Deaths in 2026",
-      "source": "Wikipedia en",
-      "speech": "«Deaths in 2026»: lo usaremos en campaña con todo el respeto.",
-      "luto": true
-    },
-    {
-      "term": "Spain transport minister says he won't resign over high-speed rail…",
-      "source": "titulares",
-      "speech": "Lo que España pide hoy es «Spain transport minister says he won't resign over high-speed rail…». Nosotros lo garantizamos.",
-      "luto": false
-    },
-    {
-      "term": "Sullivan contra Sullivan",
-      "source": "titulares",
-      "speech": "«Sullivan contra Sullivan» es culpa del Gobierno anterior. Y del siguiente.",
-      "luto": false
-    },
-    {
-      "term": "cruz azul vs león",
-      "source": "Google Trends MX",
-      "speech": "Declararemos «cruz azul vs león» fiesta nacional a partir de hoy.",
-      "luto": false
-    },
-    {
-      "term": "Accidente ferroviario de Urda",
-      "source": "Wikipedia es",
-      "speech": "Llevaremos «Accidente ferroviario de Urda» a Bruselas, al Supremo y a todas las tertulias.",
-      "luto": false
-    },
-    {
-      "term": "US inmate Christa Pike says she woke up 'confused and in pain' after…",
-      "source": "titulares",
-      "speech": "Lo que España pide hoy es «US inmate Christa Pike says she woke up 'confused and in pain' after…». Nosotros lo garantizamos.",
-      "luto": false
-    },
-    {
-      "term": "valeria diniz influenciadora",
-      "source": "Google Trends BR",
-      "speech": "Llevaremos «valeria diniz influenciadora» a Bruselas, al Supremo y a todas las tertulias.",
-      "luto": false
-    },
-    {
-      "term": "Pat Murphy (baseball manager)",
-      "source": "Wikipedia en",
-      "speech": "Ni un paso atrás en «Pat Murphy (baseball manager)». Hasta que deje de ser tendencia.",
-      "luto": false
-    },
-    {
-      "term": "superclasico",
-      "source": "Google Trends AR",
-      "speech": "Escuchamos a la calle: «superclasico» es ahora nuestra máxima prioridad.",
-      "luto": false
-    },
-    {
-      "term": "konyaspor vs galatasaray",
-      "source": "Google Trends US",
-      "speech": "Frente al bloqueo, «konyaspor vs galatasaray». Frente al ruido, «konyaspor vs galatasaray».",
-      "luto": false
-    },
-    {
-      "term": "dwyane wade statue",
-      "source": "Google Trends US",
-      "speech": "Reparto gratuito de «dwyane wade statue» en cada hogar antes del viernes.",
-      "luto": false
-    },
-    {
-      "term": ".xxx",
-      "source": "Wikipedia en",
-      "speech": "Pediremos un pacto de Estado por «.xxx». Nadie lo firmará. Da igual.",
-      "luto": false
-    },
-    {
-      "term": "Ceasefire allows evacuation from devastated Russian-occupied Oleshky",
-      "source": "titulares",
-      "speech": "Bajaremos los impuestos a «Ceasefire allows evacuation from devastated Russian-occupied Oleshky» y se los subiremos a lo que no sea tendencia.",
-      "luto": false
-    },
-    {
-      "term": "Wendy Neuss",
-      "source": "Wikipedia en",
-      "speech": "«Wendy Neuss» será gratis para todas las familias antes de Navidad.",
-      "luto": false
-    },
-    {
-      "term": "Marta Luisa de Noruega víctima de un montaje que da por supuesto su…",
-      "source": "titulares",
-      "speech": "Un minuto de silencio por «Marta Luisa de Noruega víctima de un montaje que da por supuesto su…». Y ahora, a lo nuestro.",
-      "luto": true
-    },
-    {
-      "term": "Copa Mundial y Festival de Fútbol Sub-15 de 2026",
-      "source": "Wikipedia es",
-      "speech": "¿Vivienda? Mañana. Hoy toca «Copa Mundial y Festival de Fútbol Sub-15 de 2026».",
-      "luto": false
-    },
-    {
-      "term": "Ada Colau pide expresamente la dimisión de Óscar Puente",
-      "source": "titulares",
-      "speech": "«Ada Colau pide expresamente la dimisión de Óscar Puente» para todos. Sin letra pequeña. Sin excusas.",
-      "luto": false
-    },
-    {
-      "term": "Cuauhtémoc Cárdenas",
-      "source": "Wikipedia es",
-      "speech": "Reparto gratuito de «Cuauhtémoc Cárdenas» en cada hogar antes del viernes.",
-      "luto": false
-    },
-    {
-      "term": "armada de chile",
-      "source": "Google Trends AR",
-      "speech": "Crearemos un Ministerio de «armada de chile», con partida propia.",
-      "luto": false
-    },
-    {
-      "term": "Sarah Ferguson reaparece en un homenaje en Londres meses después de…",
-      "source": "titulares",
-      "speech": "«Sarah Ferguson reaparece en un homenaje en Londres meses después de…» es culpa del Gobierno anterior. Y del siguiente.",
-      "luto": false
-    },
-    {
-      "term": "jet2 flight ls1750 emergency diversion",
-      "source": "Google Trends GB",
-      "speech": "«jet2 flight ls1750 emergency diversion» será gratis para todas las familias antes de Navidad.",
-      "luto": false
-    },
-    {
-      "term": "delphine wespiser",
-      "source": "Google Trends FR",
-      "speech": "Si «delphine wespiser» existe, «delphine wespiser» ya está en nuestro programa.",
-      "luto": false
-    },
-    {
-      "term": "2026 Israeli legislative election",
-      "source": "Wikipedia en",
-      "speech": "Pediremos un pacto de Estado por «2026 Israeli legislative election». Nadie lo firmará. Da igual.",
-      "luto": false
-    },
-    {
-      "term": "thomas markle",
-      "source": "Google Trends DE",
-      "speech": "Renombraremos una calle de cada ciudad como «thomas markle».",
-      "luto": false
-    },
-    {
-      "term": "Puente descarta dimitir",
-      "source": "titulares",
-      "speech": "Lo que España pide hoy es «Puente descarta dimitir». Nosotros lo garantizamos.",
-      "luto": false
-    },
-    {
-      "term": "aguinaldo pensionados imss",
-      "source": "Google Trends MX",
-      "speech": "Reparto gratuito de «aguinaldo pensionados imss» en cada hogar antes del viernes.",
-      "luto": false
-    },
-    {
-      "term": "atp vienne",
-      "source": "Google Trends FR",
-      "speech": "¿Vivienda? Mañana. Hoy toca «atp vienne».",
-      "luto": false
-    },
-    {
-      "term": "Cooper Pratt",
-      "source": "Wikipedia en",
-      "speech": "Esto no va de izquierdas o de derechas: va de «Cooper Pratt».",
-      "luto": false
-    },
-    {
-      "term": "El sistema de señalización en el tramo Madrid-Sevilla, explicado en…",
-      "source": "titulares",
-      "speech": "Escuchamos a la calle: «El sistema de señalización en el tramo Madrid-Sevilla, explicado en…» es ahora nuestra máxima prioridad.",
-      "luto": false
-    },
-    {
-      "term": "kleve",
-      "source": "Google Trends DE",
-      "speech": "Esto no va de izquierdas o de derechas: va de «kleve».",
-      "luto": false
-    },
-    {
-      "term": "Elecciones parlamentarias de Israel de 2026",
-      "source": "Wikipedia es",
-      "speech": "Si «Elecciones parlamentarias de Israel de 2026» existe, «Elecciones parlamentarias de Israel de 2026» ya está en nuestro programa.",
-      "luto": false
-    },
-    {
-      "term": "LZB",
-      "source": "Wikipedia es",
-      "speech": "Nos acusan de no tener programa. Tenemos «LZB».",
-      "luto": false
-    },
-    {
-      "term": "松井玲奈",
-      "source": "Google Trends JP",
-      "speech": "Si «松井玲奈» existe, «松井玲奈» ya está en nuestro programa.",
-      "luto": false
-    },
-    {
-      "term": "Nubes, asaltos con robots y hambre en los refugios",
-      "source": "titulares",
-      "speech": "Llevaremos «Nubes, asaltos con robots y hambre en los refugios» a Bruselas, al Supremo y a todas las tertulias.",
-      "luto": false
-    },
-    {
-      "term": "taylor fritz",
-      "source": "Google Trends ES",
-      "speech": "Reparto gratuito de «taylor fritz» en cada hogar antes del viernes.",
-      "luto": false
-    },
-    {
-      "term": "WhatsApp",
-      "source": "Wikipedia es",
-      "speech": "Lo que España pide hoy es «WhatsApp». Nosotros lo garantizamos.",
-      "luto": false
-    },
-    {
-      "term": "xuxa",
-      "source": "Google Trends AR",
-      "speech": "«xuxa» es culpa del Gobierno anterior. Y del siguiente.",
-      "luto": false
-    },
-    {
-      "term": "Mushroom murderer fails to overturn convictions in Australian court…",
-      "source": "titulares",
-      "speech": "Escuchamos a la calle: «Mushroom murderer fails to overturn convictions in Australian court…» es ahora nuestra máxima prioridad.",
-      "luto": false
-    },
-    {
-      "term": "Cómo el tren de alta velocidad de España pasó de ser un modelo…",
-      "source": "titulares",
-      "speech": "Llevaremos «Cómo el tren de alta velocidad de España pasó de ser un modelo…» a Bruselas, al Supremo y a todas las tertulias.",
-      "luto": false
-    },
-    {
-      "term": "Judas Tadeo",
-      "source": "Wikipedia es",
-      "speech": "Ni un paso atrás en «Judas Tadeo». Hasta que deje de ser tendencia.",
-      "luto": false
-    },
-    {
-      "term": "ChatGPT",
-      "source": "Wikipedia es",
-      "speech": "¿Vivienda? Mañana. Hoy toca «ChatGPT».",
-      "luto": false
-    },
-    {
-      "term": "El maquinista del AVE informó al centro de control de que su sistema…",
-      "source": "titulares",
-      "speech": "Tenemos un plan para «El maquinista del AVE informó al centro de control de que su sistema…». Lo presentaremos después de las elecciones.",
-      "luto": false
-    },
-    {
-      "term": "Urda",
-      "source": "Wikipedia es",
-      "speech": "Pediremos un pacto de Estado por «Urda». Nadie lo firmará. Da igual.",
-      "luto": false
-    },
-    {
-      "term": "'Vinimos a luchar contra los malvados'",
-      "source": "titulares",
-      "speech": "Pediremos un pacto de Estado por «'Vinimos a luchar contra los malvados'». Nadie lo firmará. Da igual.",
-      "luto": false
-    },
-    {
-      "term": "psg le havre",
-      "source": "Google Trends FR",
-      "speech": "Llevaremos «psg le havre» a Bruselas, al Supremo y a todas las tertulias.",
-      "luto": false
-    },
-    {
-      "term": "Puente puso su cargo a disposición del presidente tras el accidente…",
-      "source": "titulares",
-      "speech": "Tenemos un plan para «Puente puso su cargo a disposición del presidente tras el accidente…». Lo presentaremos después de las elecciones.",
-      "luto": false
-    },
-    {
-      "term": "'No hay palabras para describir tanto dolor'",
-      "source": "titulares",
-      "speech": "«'No hay palabras para describir tanto dolor'»: lo usaremos en campaña con todo el respeto.",
-      "luto": true
-    },
-    {
-      "term": "inflazione",
-      "source": "Google Trends IT",
-      "speech": "Declararemos «inflazione» fiesta nacional a partir de hoy.",
-      "luto": false
-    },
-    {
-      "term": "Barbara Barrie",
-      "source": "Wikipedia en",
-      "speech": "Reparto gratuito de «Barbara Barrie» en cada hogar antes del viernes.",
-      "luto": false
-    },
-    {
-      "term": "el lunes 2 de noviembre es festivo",
-      "source": "Google Trends ES",
-      "speech": "Bajaremos los impuestos a «el lunes 2 de noviembre es festivo» y se los subiremos a lo que no sea tendencia.",
-      "luto": false
-    },
-    {
-      "term": "mv odyssey residential cruise stranded",
-      "source": "Google Trends US",
-      "speech": "Esto no va de izquierdas o de derechas: va de «mv odyssey residential cruise stranded».",
-      "luto": false
-    },
-    {
-      "term": "¿Cómo pueden informarse los familiares? Teléfonos de atención a…",
-      "source": "titulares",
-      "speech": "Lamentamos profundamente «¿Cómo pueden informarse los familiares? Teléfonos de atención a…». Nuestro programa no cambia.",
-      "luto": true
-    },
-    {
-      "term": "熊本 地震",
-      "source": "Google Trends JP",
-      "speech": "«熊本 地震» es culpa del Gobierno anterior. Y del siguiente.",
-      "luto": false
-    },
-    {
-      "term": "drone",
-      "source": "Google Trends BR",
-      "speech": "Reparto gratuito de «drone» en cada hogar antes del viernes.",
-      "luto": false
-    },
-    {
-      "term": "Quiebra entre los socios del Gobierno",
-      "source": "titulares",
-      "speech": "Reparto gratuito de «Quiebra entre los socios del Gobierno» en cada hogar antes del viernes.",
-      "luto": false
-    },
-    {
-      "term": "Elecciones en EE.UU.",
-      "source": "titulares",
-      "speech": "Si nos votáis el 29 de noviembre, «Elecciones en EE.UU.» saldrá por decreto.",
-      "luto": false
-    },
-    {
-      "term": "northamptonshire police headquarters",
-      "source": "Google Trends GB",
-      "speech": "Ni un paso atrás en «northamptonshire police headquarters». Hasta que deje de ser tendencia.",
-      "luto": false
-    },
-    {
-      "term": "Feijóo, tras la negativa de Óscar Puente a renunciar por el accidente…",
-      "source": "titulares",
-      "speech": "Llevaremos «Feijóo, tras la negativa de Óscar Puente a renunciar por el accidente…» a Bruselas, al Supremo y a todas las tertulias.",
-      "luto": false
-    },
-    {
-      "term": "Huelva y 'su familia' del PP despiden a la ex ministra Fátima Báñez",
-      "source": "titulares",
-      "speech": "Bajaremos los impuestos a «Huelva y 'su familia' del PP despiden a la ex ministra Fátima Báñez» y se los subiremos a lo que no sea tendencia.",
-      "luto": false
-    },
-    {
-      "term": "m3 m27 severe traffic delays",
-      "source": "Google Trends GB",
-      "speech": "Si «m3 m27 severe traffic delays» existe, «m3 m27 severe traffic delays» ya está en nuestro programa.",
-      "luto": false
-    },
-    {
-      "term": "El Ministerio de Transportes certificó, 21 días antes de la tragedia…",
-      "source": "titulares",
-      "speech": "«El Ministerio de Transportes certificó, 21 días antes de la tragedia…»: lo usaremos en campaña con todo el respeto.",
-      "luto": true
-    },
-    {
-      "term": "進撃の巨人",
-      "source": "Google Trends JP",
-      "speech": "Esto no va de izquierdas o de derechas: va de «進撃の巨人».",
-      "luto": false
-    },
-    {
-      "term": "tommy paul",
-      "source": "Google Trends MX",
-      "speech": "¿Vivienda? Mañana. Hoy toca «tommy paul».",
-      "luto": false
-    },
-    {
-      "term": "Charo Vega pide disculpas en redes tras su publicación sobre el…",
-      "source": "titulares",
-      "speech": "Si nos votáis el 29 de noviembre, «Charo Vega pide disculpas en redes tras su publicación sobre el…» saldrá por decreto.",
+      "speech": "Llevaremos «glazer ownership of manchester united» a Bruselas, al Supremo y a todas las tertulias.",
       "luto": false
     },
     {
       "term": "6 preguntas para entender qué se elige en las elecciones de medio…",
       "source": "titulares",
-      "speech": "Lo que España pide hoy es «6 preguntas para entender qué se elige en las elecciones de medio…». Nosotros lo garantizamos.",
-      "luto": false
-    },
-    {
-      "term": "Tengo una afección en la zona genital de la que a muchas personas les…",
-      "source": "titulares",
-      "speech": "Llevaremos «Tengo una afección en la zona genital de la que a muchas personas les…» a Bruselas, al Supremo y a todas las tertulias.",
-      "luto": false
-    },
-    {
-      "term": "La Agencia de Seguridad Ferroviaria lleva seis años incumpliendo sus…",
-      "source": "titulares",
-      "speech": "Los españoles de bien ya han elegido: «La Agencia de Seguridad Ferroviaria lleva seis años incumpliendo sus…».",
-      "luto": false
-    },
-    {
-      "term": "'No ha habido un solo momento desde esa noche en que no sienta dolor'",
-      "source": "titulares",
-      "speech": "Si nos votáis el 29 de noviembre, «'No ha habido un solo momento desde esa noche en que no sienta dolor'» saldrá por decreto.",
-      "luto": false
-    },
-    {
-      "term": "William Contreras",
-      "source": "Wikipedia es",
-      "speech": "Frente al bloqueo, «William Contreras». Frente al ruido, «William Contreras».",
-      "luto": false
-    },
-    {
-      "term": "La artista Clara Montes, hospitalizada tras resultar herida en el…",
-      "source": "titulares",
-      "speech": "Un minuto de silencio por «La artista Clara Montes, hospitalizada tras resultar herida en el…». Y ahora, a lo nuestro.",
-      "luto": true
-    },
-    {
-      "term": "中間選挙",
-      "source": "Google Trends JP",
-      "speech": "Renombraremos una calle de cada ciudad como «中間選挙».",
-      "luto": false
-    },
-    {
-      "term": "Lázaro Cárdenas",
-      "source": "Wikipedia es",
-      "speech": "Ni un paso atrás en «Lázaro Cárdenas». Hasta que deje de ser tendencia.",
-      "luto": false
-    },
-    {
-      "term": "カルロス・アルカラス",
-      "source": "Google Trends JP",
-      "speech": "Frente al bloqueo, «カルロス・アルカラス». Frente al ruido, «カルロス・アルカラス».",
-      "luto": false
-    },
-    {
-      "term": "planetas enanos sistema solar",
-      "source": "Google Trends ES",
-      "speech": "«planetas enanos sistema solar» para todos. Sin letra pequeña. Sin excusas.",
-      "luto": false
-    },
-    {
-      "term": "Accidente ferroviario de Santiago de Compostela",
-      "source": "Wikipedia es",
-      "speech": "Pediremos un pacto de Estado por «Accidente ferroviario de Santiago de Compostela». Nadie lo firmará. Da igual.",
-      "luto": false
-    },
-    {
-      "term": "playa de melenara",
-      "source": "Google Trends ES",
-      "speech": "Tenemos un plan para «playa de melenara». Lo presentaremos después de las elecciones.",
-      "luto": false
-    },
-    {
-      "term": "fernando castillo yaguaru",
-      "source": "Google Trends MX",
-      "speech": "Lo que España pide hoy es «fernando castillo yaguaru». Nosotros lo garantizamos.",
-      "luto": false
-    },
-    {
-      "term": "Muere Raúl Triguero, reportero de '¡De viernes!', en el accidente de…",
-      "source": "titulares",
-      "speech": "Un minuto de silencio por «Muere Raúl Triguero, reportero de '¡De viernes!', en el accidente de…». Y ahora, a lo nuestro.",
-      "luto": true
-    },
-    {
-      "term": "Rusia y Ucrania respetan la tregua de Melania en Oleshky mientras…",
-      "source": "titulares",
-      "speech": "Un minuto de silencio por «Rusia y Ucrania respetan la tregua de Melania en Oleshky mientras…». Y ahora, a lo nuestro.",
-      "luto": true
-    },
-    {
-      "term": "Democratic senator blames Egypt press crackdown on US military aid…",
-      "source": "titulares",
-      "speech": "Esto no va de izquierdas o de derechas: va de «Democratic senator blames Egypt press crackdown on US military aid…».",
-      "luto": false
-    },
-    {
-      "term": "Lewy body dementia",
-      "source": "Wikipedia en",
-      "speech": "Lo que España pide hoy es «Lewy body dementia». Nosotros lo garantizamos.",
-      "luto": false
-    },
-    {
-      "term": "US tech stocks see sharp falls over AI cost fears",
-      "source": "titulares",
-      "speech": "¿Vivienda? Mañana. Hoy toca «US tech stocks see sharp falls over AI cost fears».",
-      "luto": false
-    },
-    {
-      "term": "Jailer 2",
-      "source": "Wikipedia en",
-      "speech": "Nos acusan de no tener programa. Tenemos «Jailer 2».",
-      "luto": false
-    },
-    {
-      "term": "è sempre mezzogiorno",
-      "source": "Google Trends IT",
-      "speech": "Si «è sempre mezzogiorno» existe, «è sempre mezzogiorno» ya está en nuestro programa.",
-      "luto": false
-    },
-    {
-      "term": "reformationstag einkaufen",
-      "source": "Google Trends DE",
-      "speech": "Ni un paso atrás en «reformationstag einkaufen». Hasta que deje de ser tendencia.",
-      "luto": false
-    },
-    {
-      "term": "konyaspor - galatasaray",
-      "source": "Google Trends ES",
-      "speech": "Declararemos «konyaspor - galatasaray» fiesta nacional a partir de hoy.",
-      "luto": false
-    },
-    {
-      "term": "el 2 de noviembre es feriado oficial en mexico",
-      "source": "Google Trends MX",
-      "speech": "«el 2 de noviembre es feriado oficial en mexico» será gratis para todas las familias antes de Navidad.",
-      "luto": false
-    },
-    {
-      "term": "paul mendy",
-      "source": "Google Trends IT",
-      "speech": "Escuchamos a la calle: «paul mendy» es ahora nuestra máxima prioridad.",
-      "luto": false
-    },
-    {
-      "term": "Estados Unidos, entre las amenazas antisemitas y la batalla por la…",
-      "source": "titulares",
-      "speech": "«Estados Unidos, entre las amenazas antisemitas y la batalla por la…» para todos. Sin letra pequeña. Sin excusas.",
-      "luto": false
-    },
-    {
-      "term": "Jair Bolsonaro",
-      "source": "Wikipedia es",
-      "speech": "«Jair Bolsonaro» será gratis para todas las familias antes de Navidad.",
-      "luto": false
-    },
-    {
-      "term": "Evento:Mes de América Latina 2026",
-      "source": "Wikipedia es",
-      "speech": "Tenemos un plan para «Evento:Mes de América Latina 2026». Lo presentaremos después de las elecciones.",
-      "luto": false
-    },
-    {
-      "term": "trick or treat",
-      "source": "Google Trends JP",
-      "speech": "Renombraremos una calle de cada ciudad como «trick or treat».",
-      "luto": false
-    },
-    {
-      "term": "You Can See Everything",
-      "source": "Wikipedia en",
-      "speech": "Frente al bloqueo, «You Can See Everything». Frente al ruido, «You Can See Everything».",
-      "luto": false
-    },
-    {
-      "term": "policía",
-      "source": "Google Trends ES",
-      "speech": "Los españoles de bien ya han elegido: «policía».",
-      "luto": false
-    },
-    {
-      "term": "Prominent Russian newspaper shuts down under pressure from authorities",
-      "source": "titulares",
-      "speech": "Lo que España pide hoy es «Prominent Russian newspaper shuts down under pressure from authorities». Nosotros lo garantizamos.",
-      "luto": false
-    },
-    {
-      "term": "Mao Zedong",
-      "source": "Wikipedia es",
-      "speech": "Esto no va de izquierdas o de derechas: va de «Mao Zedong».",
-      "luto": false
-    },
-    {
-      "term": "Laura Bozzo",
-      "source": "Wikipedia es",
-      "speech": "Declararemos «Laura Bozzo» fiesta nacional a partir de hoy.",
-      "luto": false
-    },
-    {
-      "term": "La Policía escocesa investiga estancias de Jeffrey Epstein y el…",
-      "source": "titulares",
-      "speech": "Reparto gratuito de «La Policía escocesa investiga estancias de Jeffrey Epstein y el…» en cada hogar antes del viernes.",
-      "luto": false
-    },
-    {
-      "term": "morro dos cavalos",
-      "source": "Google Trends BR",
-      "speech": "Tenemos un plan para «morro dos cavalos». Lo presentaremos después de las elecciones.",
-      "luto": false
-    },
-    {
-      "term": "Hackeo a la empresa Binance afecta US$6.300 millones en activos…",
-      "source": "titulares",
-      "speech": "Frente al bloqueo, «Hackeo a la empresa Binance afecta US$6.300 millones en activos…». Frente al ruido, «Hackeo a la empresa Binance afecta US$6.300 millones en activos…».",
-      "luto": false
-    },
-    {
-      "term": "arthur fils",
-      "source": "Google Trends ES",
-      "speech": "Si nos votáis el 29 de noviembre, «arthur fils» saldrá por decreto.",
-      "luto": false
-    },
-    {
-      "term": "ebern",
-      "source": "Google Trends DE",
-      "speech": "«ebern» para todos. Sin letra pequeña. Sin excusas.",
-      "luto": false
-    },
-    {
-      "term": "Patrick Stewart on stage and screen",
-      "source": "Wikipedia en",
-      "speech": "¿Vivienda? Mañana. Hoy toca «Patrick Stewart on stage and screen».",
-      "luto": false
-    },
-    {
-      "term": "konyaspor – galatasaray",
-      "source": "Google Trends FR",
-      "speech": "Nos acusan de no tener programa. Tenemos «konyaspor – galatasaray».",
+      "speech": "Nos acusan de no tener programa. Tenemos «6 preguntas para entender qué se elige en las elecciones de medio…».",
       "luto": false
     },
     {
       "term": "Puente ve 'normal' que el LZB se haya caído 170 veces en el último…",
       "source": "titulares",
-      "speech": "Ni un paso atrás en «Puente ve 'normal' que el LZB se haya caído 170 veces en el último…». Hasta que deje de ser tendencia.",
+      "speech": "Si nos votáis el 29 de noviembre, «Puente ve 'normal' que el LZB se haya caído 170 veces en el último…» saldrá por decreto.",
       "luto": false
     },
     {
-      "term": "carlos alcaraz",
+      "term": "mario alberto morales ice indictment",
+      "source": "Google Trends US",
+      "speech": "Esto no va de izquierdas o de derechas: va de «mario alberto morales ice indictment».",
+      "luto": false
+    },
+    {
+      "term": "Sarah Ferguson reaparece en un homenaje en Londres meses después de…",
+      "source": "titulares",
+      "speech": "Crearemos un Ministerio de «Sarah Ferguson reaparece en un homenaje en Londres meses después de…», con partida propia.",
+      "luto": false
+    },
+    {
+      "term": "El vagón 8 del AVE incrustado en un vagón del Iryo, la imagen de la…",
+      "source": "titulares",
+      "speech": "Lamentamos profundamente «El vagón 8 del AVE incrustado en un vagón del Iryo, la imagen de la…». Nuestro programa no cambia.",
+      "luto": true
+    },
+    {
+      "term": "ejecución",
       "source": "Google Trends MX",
-      "speech": "Llevaremos «carlos alcaraz» a Bruselas, al Supremo y a todas las tertulias.",
+      "speech": "Frente al bloqueo, «ejecución». Frente al ruido, «ejecución».",
       "luto": false
     },
     {
-      "term": "warren buffett",
+      "term": "Huelva y 'su familia' del PP despiden a la ex ministra Fátima Báñez",
+      "source": "titulares",
+      "speech": "Ni un paso atrás en «Huelva y 'su familia' del PP despiden a la ex ministra Fátima Báñez». Hasta que deje de ser tendencia.",
+      "luto": false
+    },
+    {
+      "term": "G20 'family photo' cancelled after protests over presence of Russian…",
+      "source": "titulares",
+      "speech": "«G20 'family photo' cancelled after protests over presence of Russian…» es culpa del Gobierno anterior. Y del siguiente.",
+      "luto": false
+    },
+    {
+      "term": "al-shabab - al-ahli saudi",
+      "source": "Google Trends AR",
+      "speech": "Pediremos un pacto de Estado por «al-shabab - al-ahli saudi». Nadie lo firmará. Da igual.",
+      "luto": false
+    },
+    {
+      "term": "tobias reichmann",
       "source": "Google Trends DE",
-      "speech": "Declararemos «warren buffett» fiesta nacional a partir de hoy.",
+      "speech": "Llevaremos «tobias reichmann» a Bruselas, al Supremo y a todas las tertulias.",
       "luto": false
     },
     {
-      "term": "Jeffery Simmons",
+      "term": "Facebook",
+      "source": "Wikipedia es",
+      "speech": "¿Vivienda? Mañana. Hoy toca «Facebook».",
+      "luto": false
+    },
+    {
+      "term": "rodez – usl dunkerque",
+      "source": "Google Trends FR",
+      "speech": "Nos acusan de no tener programa. Tenemos «rodez – usl dunkerque».",
+      "luto": false
+    },
+    {
+      "term": "Las claves del ultimátum de Bukele a las poderosas bandas de Haití…",
+      "source": "titulares",
+      "speech": "«Las claves del ultimátum de Bukele a las poderosas bandas de Haití…» para todos. Sin letra pequeña. Sin excusas.",
+      "luto": false
+    },
+    {
+      "term": "Milwaukee Brewers",
       "source": "Wikipedia en",
-      "speech": "Escuchamos a la calle: «Jeffery Simmons» es ahora nuestra máxima prioridad.",
+      "speech": "Nos acusan de no tener programa. Tenemos «Milwaukee Brewers».",
+      "luto": false
+    },
+    {
+      "term": "サンリオピューロランド",
+      "source": "Google Trends JP",
+      "speech": "Frente al bloqueo, «サンリオピューロランド». Frente al ruido, «サンリオピューロランド».",
+      "luto": false
+    },
+    {
+      "term": "elversberg – mainz",
+      "source": "Google Trends DE",
+      "speech": "Bajaremos los impuestos a «elversberg – mainz» y se los subiremos a lo que no sea tendencia.",
+      "luto": false
+    },
+    {
+      "term": "Prominent Russian newspaper shuts down under pressure from authorities",
+      "source": "titulares",
+      "speech": "Nos acusan de no tener programa. Tenemos «Prominent Russian newspaper shuts down under pressure from authorities».",
+      "luto": false
+    },
+    {
+      "term": "giovanna gold",
+      "source": "Google Trends BR",
+      "speech": "Tenemos un plan para «giovanna gold». Lo presentaremos después de las elecciones.",
+      "luto": false
+    },
+    {
+      "term": "La historia familiar de Patrick Stewart",
+      "source": "titulares",
+      "speech": "«La historia familiar de Patrick Stewart» será gratis para todas las familias antes de Navidad.",
+      "luto": false
+    },
+    {
+      "term": "Barbara Barrie",
+      "source": "Wikipedia en",
+      "speech": "Renombraremos una calle de cada ciudad como «Barbara Barrie».",
+      "luto": false
+    },
+    {
+      "term": "ligue 1",
+      "source": "Google Trends US",
+      "speech": "«ligue 1» será gratis para todas las familias antes de Navidad.",
+      "luto": false
+    },
+    {
+      "term": "neto",
+      "source": "Google Trends BR",
+      "speech": "«neto» es culpa del Gobierno anterior. Y del siguiente.",
+      "luto": false
+    },
+    {
+      "term": "Cómo funcionan los sistemas de seguridad que fallaron en el accidente…",
+      "source": "titulares",
+      "speech": "Renombraremos una calle de cada ciudad como «Cómo funcionan los sistemas de seguridad que fallaron en el accidente…».",
+      "luto": false
+    },
+    {
+      "term": "Deaths in 2026",
+      "source": "Wikipedia en",
+      "speech": "Un minuto de silencio por «Deaths in 2026». Y ahora, a lo nuestro.",
+      "luto": true
+    },
+    {
+      "term": "le havre vs psg",
+      "source": "Google Trends JP",
+      "speech": "Esto no va de izquierdas o de derechas: va de «le havre vs psg».",
+      "luto": false
+    },
+    {
+      "term": "médico",
+      "source": "Google Trends ES",
+      "speech": "Pediremos un pacto de Estado por «médico». Nadie lo firmará. Da igual.",
+      "luto": false
+    },
+    {
+      "term": "sox",
+      "source": "Google Trends JP",
+      "speech": "Tenemos un plan para «sox». Lo presentaremos después de las elecciones.",
+      "luto": false
+    },
+    {
+      "term": "poland",
+      "source": "Google Trends GB",
+      "speech": "Declararemos «poland» fiesta nacional a partir de hoy.",
+      "luto": false
+    },
+    {
+      "term": "Elecciones parlamentarias de Israel de 2026",
+      "source": "Wikipedia es",
+      "speech": "Ni un paso atrás en «Elecciones parlamentarias de Israel de 2026». Hasta que deje de ser tendencia.",
+      "luto": false
+    },
+    {
+      "term": "Urda",
+      "source": "Wikipedia es",
+      "speech": "«Urda» para todos. Sin letra pequeña. Sin excusas.",
+      "luto": false
+    },
+    {
+      "term": "Andrea Duro comparte las primeras imágenes de su boda con Guillermo…",
+      "source": "titulares",
+      "speech": "Frente al bloqueo, «Andrea Duro comparte las primeras imágenes de su boda con Guillermo…». Frente al ruido, «Andrea Duro comparte las primeras imágenes de su boda con Guillermo…».",
+      "luto": false
+    },
+    {
+      "term": "Marta Luisa de Noruega víctima de un montaje que da por supuesto su…",
+      "source": "titulares",
+      "speech": "Lamentamos profundamente «Marta Luisa de Noruega víctima de un montaje que da por supuesto su…». Nuestro programa no cambia.",
+      "luto": true
+    },
+    {
+      "term": "'Hay más en la vida que solo competir y ganar'",
+      "source": "titulares",
+      "speech": "Bajaremos los impuestos a «'Hay más en la vida que solo competir y ganar'» y se los subiremos a lo que no sea tendencia.",
+      "luto": false
+    },
+    {
+      "term": "freibetrag",
+      "source": "Google Trends DE",
+      "speech": "Frente al bloqueo, «freibetrag». Frente al ruido, «freibetrag».",
+      "luto": false
+    },
+    {
+      "term": "Un hackeo a la empresa Binance afecta a US$6.300 millones en activos…",
+      "source": "titulares",
+      "speech": "¿Vivienda? Mañana. Hoy toca «Un hackeo a la empresa Binance afecta a US$6.300 millones en activos…».",
+      "luto": false
+    },
+    {
+      "term": "raffarin",
+      "source": "Google Trends FR",
+      "speech": "Bajaremos los impuestos a «raffarin» y se los subiremos a lo que no sea tendencia.",
+      "luto": false
+    },
+    {
+      "term": "La Agencia de Seguridad Ferroviaria lleva seis años incumpliendo sus…",
+      "source": "titulares",
+      "speech": "Crearemos un Ministerio de «La Agencia de Seguridad Ferroviaria lleva seis años incumpliendo sus…», con partida propia.",
+      "luto": false
+    },
+    {
+      "term": "f1 mexico",
+      "source": "Google Trends AR",
+      "speech": "Si «f1 mexico» existe, «f1 mexico» ya está en nuestro programa.",
+      "luto": false
+    },
+    {
+      "term": "Patrick Stewart",
+      "source": "Wikipedia es",
+      "speech": "¿Vivienda? Mañana. Hoy toca «Patrick Stewart».",
+      "luto": false
+    },
+    {
+      "term": "emmerdale victoria sugden return",
+      "source": "Google Trends GB",
+      "speech": "Lo que España pide hoy es «emmerdale victoria sugden return». Nosotros lo garantizamos.",
+      "luto": false
+    },
+    {
+      "term": "bonfire night",
+      "source": "Google Trends GB",
+      "speech": "Declararemos «bonfire night» fiesta nacional a partir de hoy.",
+      "luto": false
+    },
+    {
+      "term": "El sistema de señalización en el tramo Madrid-Sevilla, explicado en…",
+      "source": "titulares",
+      "speech": "Los españoles de bien ya han elegido: «El sistema de señalización en el tramo Madrid-Sevilla, explicado en…».",
+      "luto": false
+    },
+    {
+      "term": "ted bundy",
+      "source": "Google Trends BR",
+      "speech": "¿Vivienda? Mañana. Hoy toca «ted bundy».",
+      "luto": false
+    },
+    {
+      "term": "Jair Bolsonaro",
+      "source": "Wikipedia es",
+      "speech": "Los españoles de bien ya han elegido: «Jair Bolsonaro».",
+      "luto": false
+    },
+    {
+      "term": "cotización del dólar blue hoy",
+      "source": "Google Trends AR",
+      "speech": "Declararemos «cotización del dólar blue hoy» fiesta nacional a partir de hoy.",
+      "luto": false
+    },
+    {
+      "term": "Mao Zedong",
+      "source": "Wikipedia es",
+      "speech": "Reparto gratuito de «Mao Zedong» en cada hogar antes del viernes.",
+      "luto": false
+    },
+    {
+      "term": "Nubes, asaltos con robots y hambre en los refugios",
+      "source": "titulares",
+      "speech": "Si «Nubes, asaltos con robots y hambre en los refugios» existe, «Nubes, asaltos con robots y hambre en los refugios» ya está en nuestro programa.",
+      "luto": false
+    },
+    {
+      "term": "Pat Murphy (baseball manager)",
+      "source": "Wikipedia en",
+      "speech": "«Pat Murphy (baseball manager)» es culpa del Gobierno anterior. Y del siguiente.",
       "luto": false
     },
     {
@@ -777,15 +303,141 @@
       "luto": false
     },
     {
-      "term": "松村邦洋",
-      "source": "Google Trends JP",
-      "speech": "Escuchamos a la calle: «松村邦洋» es ahora nuestra máxima prioridad.",
+      "term": "Copa Mundial y Festival de Fútbol Sub-15 de 2026",
+      "source": "Wikipedia es",
+      "speech": "Si «Copa Mundial y Festival de Fútbol Sub-15 de 2026» existe, «Copa Mundial y Festival de Fútbol Sub-15 de 2026» ya está en nuestro programa.",
       "luto": false
     },
     {
-      "term": "Patrick Stewart",
+      "term": "LZB",
       "source": "Wikipedia es",
-      "speech": "Renombraremos una calle de cada ciudad como «Patrick Stewart».",
+      "speech": "Nos acusan de no tener programa. Tenemos «LZB».",
+      "luto": false
+    },
+    {
+      "term": "Sunny Ozell",
+      "source": "Wikipedia en",
+      "speech": "«Sunny Ozell» para todos. Sin letra pequeña. Sin excusas.",
+      "luto": false
+    },
+    {
+      "term": "niza - rennes",
+      "source": "Google Trends ES",
+      "speech": "Pediremos un pacto de Estado por «niza - rennes». Nadie lo firmará. Da igual.",
+      "luto": false
+    },
+    {
+      "term": "nvidia 株価",
+      "source": "Google Trends JP",
+      "speech": "«nvidia 株価» es culpa del Gobierno anterior. Y del siguiente.",
+      "luto": false
+    },
+    {
+      "term": "みなみかわ",
+      "source": "Google Trends JP",
+      "speech": "Escuchamos a la calle: «みなみかわ» es ahora nuestra máxima prioridad.",
+      "luto": false
+    },
+    {
+      "term": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine…",
+      "source": "titulares",
+      "speech": "Esto no va de izquierdas o de derechas: va de «Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine…».",
+      "luto": false
+    },
+    {
+      "term": "Rusia y Ucrania respetan la tregua de Melania en Oleshky mientras…",
+      "source": "titulares",
+      "speech": "Lamentamos profundamente «Rusia y Ucrania respetan la tregua de Melania en Oleshky mientras…». Nuestro programa no cambia.",
+      "luto": true
+    },
+    {
+      "term": "rennes",
+      "source": "Google Trends BR",
+      "speech": "Si «rennes» existe, «rennes» ya está en nuestro programa.",
+      "luto": false
+    },
+    {
+      "term": "Crypto giant Binance attempting to recover $6.3bn stolen in hack…",
+      "source": "titulares",
+      "speech": "Esto no va de izquierdas o de derechas: va de «Crypto giant Binance attempting to recover $6.3bn stolen in hack…».",
+      "luto": false
+    },
+    {
+      "term": "Christian Yelich",
+      "source": "Wikipedia en",
+      "speech": "Los españoles de bien ya han elegido: «Christian Yelich».",
+      "luto": false
+    },
+    {
+      "term": "tadej pogačar",
+      "source": "Google Trends FR",
+      "speech": "Nos acusan de no tener programa. Tenemos «tadej pogačar».",
+      "luto": false
+    },
+    {
+      "term": "Laura Bozzo",
+      "source": "Wikipedia es",
+      "speech": "Nos acusan de no tener programa. Tenemos «Laura Bozzo».",
+      "luto": false
+    },
+    {
+      "term": "Judas Tadeo",
+      "source": "Wikipedia es",
+      "speech": "Si nos votáis el 29 de noviembre, «Judas Tadeo» saldrá por decreto.",
+      "luto": false
+    },
+    {
+      "term": "Jailer 2",
+      "source": "Wikipedia en",
+      "speech": "Esto no va de izquierdas o de derechas: va de «Jailer 2».",
+      "luto": false
+    },
+    {
+      "term": "2026 Israeli legislative election",
+      "source": "Wikipedia en",
+      "speech": "«2026 Israeli legislative election» para todos. Sin letra pequeña. Sin excusas.",
+      "luto": false
+    },
+    {
+      "term": "Accidente ferroviario de Adamuz",
+      "source": "Wikipedia es",
+      "speech": "Nos acusan de no tener programa. Tenemos «Accidente ferroviario de Adamuz».",
+      "luto": false
+    },
+    {
+      "term": "'No hay palabras para describir tanto dolor'",
+      "source": "titulares",
+      "speech": "Lamentamos profundamente «'No hay palabras para describir tanto dolor'». Nuestro programa no cambia.",
+      "luto": true
+    },
+    {
+      "term": "roque santeiro",
+      "source": "Google Trends BR",
+      "speech": "Tenemos un plan para «roque santeiro». Lo presentaremos después de las elecciones.",
+      "luto": false
+    },
+    {
+      "term": "sony playstation",
+      "source": "Google Trends GB",
+      "speech": "«sony playstation» para todos. Sin letra pequeña. Sin excusas.",
+      "luto": false
+    },
+    {
+      "term": "Elizabeth Holmes",
+      "source": "Wikipedia en",
+      "speech": "Renombraremos una calle de cada ciudad como «Elizabeth Holmes».",
+      "luto": false
+    },
+    {
+      "term": "Ada Colau pide expresamente la dimisión de Óscar Puente",
+      "source": "titulares",
+      "speech": "Si nos votáis el 29 de noviembre, «Ada Colau pide expresamente la dimisión de Óscar Puente» saldrá por decreto.",
+      "luto": false
+    },
+    {
+      "term": "mika godts",
+      "source": "Google Trends MX",
+      "speech": "¿Vivienda? Mañana. Hoy toca «mika godts».",
       "luto": false
     },
     {
@@ -795,21 +447,327 @@
       "luto": false
     },
     {
-      "term": "sexiest man alive",
-      "source": "Google Trends US",
-      "speech": "Declararemos «sexiest man alive» fiesta nacional a partir de hoy.",
+      "term": "Patrick Stewart on stage and screen",
+      "source": "Wikipedia en",
+      "speech": "«Patrick Stewart on stage and screen» para todos. Sin letra pequeña. Sin excusas.",
       "luto": false
     },
     {
-      "term": "daniel riolo",
+      "term": "endrick",
+      "source": "Google Trends ES",
+      "speech": "Declararemos «endrick» fiesta nacional a partir de hoy.",
+      "luto": false
+    },
+    {
+      "term": "Irán agrava su pulso en Ormuz mientras el conflicto entra en sus…",
+      "source": "titulares",
+      "speech": "Nos acusan de no tener programa. Tenemos «Irán agrava su pulso en Ormuz mientras el conflicto entra en sus…».",
+      "luto": false
+    },
+    {
+      "term": "Spain transport minister says he won't resign over high-speed rail…",
+      "source": "titulares",
+      "speech": "Ni un paso atrás en «Spain transport minister says he won't resign over high-speed rail…». Hasta que deje de ser tendencia.",
+      "luto": false
+    },
+    {
+      "term": "žalgiris - partizan",
+      "source": "Google Trends ES",
+      "speech": "Ni un paso atrás en «žalgiris - partizan». Hasta que deje de ser tendencia.",
+      "luto": false
+    },
+    {
+      "term": "Jacob Misiorowski",
+      "source": "Wikipedia en",
+      "speech": "Llevaremos «Jacob Misiorowski» a Bruselas, al Supremo y a todas las tertulias.",
+      "luto": false
+    },
+    {
+      "term": "jean montero",
+      "source": "Google Trends ES",
+      "speech": "Bajaremos los impuestos a «jean montero» y se los subiremos a lo que no sea tendencia.",
+      "luto": false
+    },
+    {
+      "term": "Lewy body dementia",
+      "source": "Wikipedia en",
+      "speech": "«Lewy body dementia» será gratis para todas las familias antes de Navidad.",
+      "luto": false
+    },
+    {
+      "term": "beca",
+      "source": "Google Trends AR",
+      "speech": "Frente al bloqueo, «beca». Frente al ruido, «beca».",
+      "luto": false
+    },
+    {
+      "term": "Cuauhtémoc Cárdenas",
+      "source": "Wikipedia es",
+      "speech": "Declararemos «Cuauhtémoc Cárdenas» fiesta nacional a partir de hoy.",
+      "luto": false
+    },
+    {
+      "term": "willich",
+      "source": "Google Trends DE",
+      "speech": "Crearemos un Ministerio de «willich», con partida propia.",
+      "luto": false
+    },
+    {
+      "term": "Quiebra entre los socios del Gobierno",
+      "source": "titulares",
+      "speech": "Ni un paso atrás en «Quiebra entre los socios del Gobierno». Hasta que deje de ser tendencia.",
+      "luto": false
+    },
+    {
+      "term": "US inmate Christa Pike says she woke up 'confused and in pain' after…",
+      "source": "titulares",
+      "speech": "Nos acusan de no tener programa. Tenemos «US inmate Christa Pike says she woke up 'confused and in pain' after…».",
+      "luto": false
+    },
+    {
+      "term": "laval – boulogne",
       "source": "Google Trends FR",
-      "speech": "Si nos votáis el 29 de noviembre, «daniel riolo» saldrá por decreto.",
+      "speech": "¿Vivienda? Mañana. Hoy toca «laval – boulogne».",
+      "luto": false
+    },
+    {
+      "term": "Accidente ferroviario de Santiago de Compostela",
+      "source": "Wikipedia es",
+      "speech": "Lo que España pide hoy es «Accidente ferroviario de Santiago de Compostela». Nosotros lo garantizamos.",
+      "luto": false
+    },
+    {
+      "term": "Sullivan contra Sullivan",
+      "source": "titulares",
+      "speech": "«Sullivan contra Sullivan» es culpa del Gobierno anterior. Y del siguiente.",
+      "luto": false
+    },
+    {
+      "term": "psg vs le havre",
+      "source": "Google Trends US",
+      "speech": "Lo que España pide hoy es «psg vs le havre». Nosotros lo garantizamos.",
+      "luto": false
+    },
+    {
+      "term": "You Can See Everything",
+      "source": "Wikipedia en",
+      "speech": "Pediremos un pacto de Estado por «You Can See Everything». Nadie lo firmará. Da igual.",
+      "luto": false
+    },
+    {
+      "term": "Accidente ferroviario de Urda",
+      "source": "Wikipedia es",
+      "speech": "«Accidente ferroviario de Urda» será gratis para todas las familias antes de Navidad.",
+      "luto": false
+    },
+    {
+      "term": "'No ha habido un solo momento desde esa noche en que no sienta dolor'",
+      "source": "titulares",
+      "speech": "Ni un paso atrás en «'No ha habido un solo momento desde esa noche en que no sienta dolor'». Hasta que deje de ser tendencia.",
+      "luto": false
+    },
+    {
+      "term": "binance robo criptomonedas",
+      "source": "Google Trends ES",
+      "speech": "Ni un paso atrás en «binance robo criptomonedas». Hasta que deje de ser tendencia.",
+      "luto": false
+    },
+    {
+      "term": "paris vs",
+      "source": "Google Trends MX",
+      "speech": "Reparto gratuito de «paris vs» en cada hogar antes del viernes.",
+      "luto": false
+    },
+    {
+      "term": "Puente descarta dimitir",
+      "source": "titulares",
+      "speech": "Llevaremos «Puente descarta dimitir» a Bruselas, al Supremo y a todas las tertulias.",
+      "luto": false
+    },
+    {
+      "term": "Feijóo, tras la negativa de Óscar Puente a renunciar por el accidente…",
+      "source": "titulares",
+      "speech": "Lo que España pide hoy es «Feijóo, tras la negativa de Óscar Puente a renunciar por el accidente…». Nosotros lo garantizamos.",
+      "luto": false
+    },
+    {
+      "term": "Lázaro Cárdenas Batel",
+      "source": "Wikipedia es",
+      "speech": "Lo que España pide hoy es «Lázaro Cárdenas Batel». Nosotros lo garantizamos.",
+      "luto": false
+    },
+    {
+      "term": "what time is traitors on tonight",
+      "source": "Google Trends GB",
+      "speech": "Si «what time is traitors on tonight» existe, «what time is traitors on tonight» ya está en nuestro programa.",
+      "luto": false
+    },
+    {
+      "term": "al shabab riyadh al ahli jeddah 30/10/2026",
+      "source": "Google Trends BR",
+      "speech": "Nos acusan de no tener programa. Tenemos «al shabab riyadh al ahli jeddah 30/10/2026».",
+      "luto": false
+    },
+    {
+      "term": "cadillac en fórmula 1",
+      "source": "Google Trends MX",
+      "speech": "Si nos votáis el 29 de noviembre, «cadillac en fórmula 1» saldrá por decreto.",
+      "luto": false
+    },
+    {
+      "term": "Estados Unidos, entre las amenazas antisemitas y la batalla por la…",
+      "source": "titulares",
+      "speech": "Crearemos un Ministerio de «Estados Unidos, entre las amenazas antisemitas y la batalla por la…», con partida propia.",
+      "luto": false
+    },
+    {
+      "term": "Puente puso su cargo a disposición del presidente tras el accidente…",
+      "source": "titulares",
+      "speech": "Declararemos «Puente puso su cargo a disposición del presidente tras el accidente…» fiesta nacional a partir de hoy.",
+      "luto": false
+    },
+    {
+      "term": "Jeffery Simmons",
+      "source": "Wikipedia en",
+      "speech": "Reparto gratuito de «Jeffery Simmons» en cada hogar antes del viernes.",
+      "luto": false
+    },
+    {
+      "term": "Cooper Pratt",
+      "source": "Wikipedia en",
+      "speech": "Si «Cooper Pratt» existe, «Cooper Pratt» ya está en nuestro programa.",
+      "luto": false
+    },
+    {
+      "term": "宇賀なつみ",
+      "source": "Google Trends JP",
+      "speech": "Tenemos un plan para «宇賀なつみ». Lo presentaremos después de las elecciones.",
+      "luto": false
+    },
+    {
+      "term": "buchbach",
+      "source": "Google Trends DE",
+      "speech": "Renombraremos una calle de cada ciudad como «buchbach».",
+      "luto": false
+    },
+    {
+      "term": "barça - valencia",
+      "source": "Google Trends ES",
+      "speech": "Esto no va de izquierdas o de derechas: va de «barça - valencia».",
+      "luto": false
+    },
+    {
+      "term": ".xxx",
+      "source": "Wikipedia en",
+      "speech": "«.xxx» es culpa del Gobierno anterior. Y del siguiente.",
+      "luto": false
+    },
+    {
+      "term": "nasdaq 100",
+      "source": "Google Trends ES",
+      "speech": "Esto no va de izquierdas o de derechas: va de «nasdaq 100».",
+      "luto": false
+    },
+    {
+      "term": "La tristeza de Cayetano Rivera por la muerte de Antonio Vázquez en…",
+      "source": "titulares",
+      "speech": "Nuestro más sentido pésame por «La tristeza de Cayetano Rivera por la muerte de Antonio Vázquez en…». Suscríbete para más.",
+      "luto": true
+    },
+    {
+      "term": "Elecciones en EE.UU.",
+      "source": "titulares",
+      "speech": "Tenemos un plan para «Elecciones en EE.UU.». Lo presentaremos después de las elecciones.",
+      "luto": false
+    },
+    {
+      "term": "le havre – paris-sg",
+      "source": "Google Trends IT",
+      "speech": "«le havre – paris-sg» para todos. Sin letra pequeña. Sin excusas.",
+      "luto": false
+    },
+    {
+      "term": "ChatGPT",
+      "source": "Wikipedia es",
+      "speech": "«ChatGPT» para todos. Sin letra pequeña. Sin excusas.",
+      "luto": false
+    },
+    {
+      "term": "kerstin ott",
+      "source": "Google Trends DE",
+      "speech": "Lo que España pide hoy es «kerstin ott». Nosotros lo garantizamos.",
+      "luto": false
+    },
+    {
+      "term": "olympiacos - olimpia milano",
+      "source": "Google Trends IT",
+      "speech": "Si nos votáis el 29 de noviembre, «olympiacos - olimpia milano» saldrá por decreto.",
+      "luto": false
+    },
+    {
+      "term": "jimena barón",
+      "source": "Google Trends AR",
+      "speech": "Frente al bloqueo, «jimena barón». Frente al ruido, «jimena barón».",
+      "luto": false
+    },
+    {
+      "term": "William Contreras",
+      "source": "Wikipedia es",
+      "speech": "Llevaremos «William Contreras» a Bruselas, al Supremo y a todas las tertulias.",
+      "luto": false
+    },
+    {
+      "term": "ella stiller",
+      "source": "Google Trends US",
+      "speech": "Tenemos un plan para «ella stiller». Lo presentaremos después de las elecciones.",
+      "luto": false
+    },
+    {
+      "term": "grenoble – dijon",
+      "source": "Google Trends FR",
+      "speech": "Si «grenoble – dijon» existe, «grenoble – dijon» ya está en nuestro programa.",
+      "luto": false
+    },
+    {
+      "term": "odeur",
+      "source": "Google Trends FR",
+      "speech": "Renombraremos una calle de cada ciudad como «odeur».",
+      "luto": false
+    },
+    {
+      "term": "trick or treat",
+      "source": "Google Trends MX",
+      "speech": "Los españoles de bien ya han elegido: «trick or treat».",
       "luto": false
     },
     {
       "term": "Fátima Báñez",
       "source": "Wikipedia es",
-      "speech": "Escuchamos a la calle: «Fátima Báñez» es ahora nuestra máxima prioridad.",
+      "speech": "Frente al bloqueo, «Fátima Báñez». Frente al ruido, «Fátima Báñez».",
+      "luto": false
+    },
+    {
+      "term": "bodo glimt",
+      "source": "Google Trends MX",
+      "speech": "Reparto gratuito de «bodo glimt» en cada hogar antes del viernes.",
+      "luto": false
+    },
+    {
+      "term": "Evento:Mes de América Latina 2026",
+      "source": "Wikipedia es",
+      "speech": "Ni un paso atrás en «Evento:Mes de América Latina 2026». Hasta que deje de ser tendencia.",
+      "luto": false
+    },
+    {
+      "term": "Puente puso su cargo a disposición de Sánchez, que respalda su…",
+      "source": "titulares",
+      "speech": "Si «Puente puso su cargo a disposición de Sánchez, que respalda su…» existe, «Puente puso su cargo a disposición de Sánchez, que respalda su…» ya está en nuestro programa.",
+      "luto": false
+    },
+    {
+      "term": "riley green sexiest man alive",
+      "source": "Google Trends US",
+      "speech": "Crearemos un Ministerio de «riley green sexiest man alive», con partida propia.",
       "luto": false
     },
     {
@@ -819,27 +777,69 @@
       "luto": false
     },
     {
-      "term": "nico santos",
-      "source": "Google Trends DE",
-      "speech": "Crearemos un Ministerio de «nico santos», con partida propia.",
+      "term": "civil war",
+      "source": "Google Trends IT",
+      "speech": "Un minuto de silencio por «civil war». Y ahora, a lo nuestro.",
+      "luto": true
+    },
+    {
+      "term": "psg vs",
+      "source": "Google Trends MX",
+      "speech": "Declararemos «psg vs» fiesta nacional a partir de hoy.",
       "luto": false
     },
     {
-      "term": "nationwide uk property price drop",
+      "term": "daniel vogelbach",
+      "source": "Google Trends US",
+      "speech": "Llevaremos «daniel vogelbach» a Bruselas, al Supremo y a todas las tertulias.",
+      "luto": false
+    },
+    {
+      "term": "Wendy Neuss",
+      "source": "Wikipedia en",
+      "speech": "Llevaremos «Wendy Neuss» a Bruselas, al Supremo y a todas las tertulias.",
+      "luto": false
+    },
+    {
+      "term": "El maquinista del AVE informó al centro de control de que su sistema…",
+      "source": "titulares",
+      "speech": "Los españoles de bien ya han elegido: «El maquinista del AVE informó al centro de control de que su sistema…».",
+      "luto": false
+    },
+    {
+      "term": "Quién puede estar detrás del robo de US$6.300 millones a Binance y…",
+      "source": "titulares",
+      "speech": "Escuchamos a la calle: «Quién puede estar detrás del robo de US$6.300 millones a Binance y…» es ahora nuestra máxima prioridad.",
+      "luto": false
+    },
+    {
+      "term": "Israel investiga una posible 'injerencia extranjera' en las…",
+      "source": "titulares",
+      "speech": "Renombraremos una calle de cada ciudad como «Israel investiga una posible 'injerencia extranjera' en las…».",
+      "luto": false
+    },
+    {
+      "term": "antonella clerici",
+      "source": "Google Trends IT",
+      "speech": "Los españoles de bien ya han elegido: «antonella clerici».",
+      "luto": false
+    },
+    {
+      "term": "itv news",
       "source": "Google Trends GB",
-      "speech": "Renombraremos una calle de cada ciudad como «nationwide uk property price drop».",
+      "speech": "Llevaremos «itv news» a Bruselas, al Supremo y a todas las tertulias.",
       "luto": false
     },
     {
-      "term": "tkp",
-      "source": "Google Trends JP",
-      "speech": "Pediremos un pacto de Estado por «tkp». Nadie lo firmará. Da igual.",
+      "term": "pluto tv",
+      "source": "Google Trends DE",
+      "speech": "Ni un paso atrás en «pluto tv». Hasta que deje de ser tendencia.",
       "luto": false
     },
     {
-      "term": "renato sanches",
-      "source": "Google Trends BR",
-      "speech": "Llevaremos «renato sanches» a Bruselas, al Supremo y a todas las tertulias.",
+      "term": "guillermo mariotto",
+      "source": "Google Trends IT",
+      "speech": "Pediremos un pacto de Estado por «guillermo mariotto». Nadie lo firmará. Da igual.",
       "luto": false
     }
   ]
